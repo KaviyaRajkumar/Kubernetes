@@ -1,2 +1,2 @@
 # Kubernetes
-Kubernetes larnings
+Kubernetes learnings
